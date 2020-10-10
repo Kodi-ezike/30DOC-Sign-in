@@ -91,21 +91,12 @@
     justify-content: space-between;
     margin: 40px 20px 0 20px;
 }
-.flex-text{
-    display: flex;
-    font-family: Montserrat;
-    color: #354672; 
-}
-.days{
-    font-size: 20px;
-    line-height: 60px;
-}
-.thirty{
-    font-size: 50px;
-    font-weight: 600;
+.logo{
+    width:200px;
+    height: 100%;
 }
 .user{
-    line-height: 60px;
+    line-height: 87px;
     font-size: 18px;
     color: #354672;
     font-family: Quicksand;
@@ -177,17 +168,6 @@ input::placeholder{
 .sign{
     width: auto;
     margin: auto;
-}
-.thirty{
-    font-size: 30px;
-    line-height: 30px;
-}
-.days{
-    font-size: 15px;
-    line-height: 30px;
-}
-.user{
-    line-height: 30px;
 }
 .heading{
     display: flex;
